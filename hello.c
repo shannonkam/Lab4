@@ -5,4 +5,3 @@ void main()
 {
 	printf("Aloha world!\n");
 }
-
